@@ -1,0 +1,17 @@
+입출력 예시
+
+1. ["INT", "INT", "BOOL", "SHORT", "LONG"]
+
+➡️ return "########,########,#.##....,########,########"
+
+2. ["INT", "SHORT", "FLOAT", "INT","BOOL"]
+
+➡️ return "########,##..####,########,#......."
+
+3. ["FLOAT", "SHORT", "BOOL", "BOOL", "BOOL", "INT"]
+
+➡️ return "########,#.......,########"
+
+4. ["BOOL", "LONG", "SHORT", "LONG", "BOOL", "LONG", "BOOL", "LONG", "SHORT", "LONG", "LONG"]
+
+➡️ return "HALT"
